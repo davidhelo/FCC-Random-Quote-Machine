@@ -47,7 +47,7 @@ body {
         border: 0.25rem;
         border-radius: 3px;
         color: #fff;
-        background-color: rgb(71, 128, 161);
+        background-color: hsl(202, 39%, 45%);
         outline: none;
         font-size: 0.85em;
         padding: 8px 18px 6px 18px;
@@ -58,7 +58,7 @@ body {
     }
 
 #new-quote:hover {
-    opacity: 0.9;
+    background-color: hsl(202, 39%, 50%);
 }
 
 #tweet-quote {
